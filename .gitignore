@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+gender_submission.csv
+secret.txt
+test.csv
+titanic.py
+titanic_lightgbm.csv
+titanic_xgboost.csv
+train.csv

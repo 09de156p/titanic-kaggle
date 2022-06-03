@@ -6,3 +6,4 @@ titanic.py
 titanic_lightgbm.csv
 titanic_xgboost.csv
 train.csv
+test.ipynb
